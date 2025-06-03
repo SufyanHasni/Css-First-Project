@@ -1,5 +1,17 @@
 .header {
     background-color: rgb(114, 233, 193);
-    border-bottom: 80px;
-    border-color: black;
+    border-bottom: 3px solid rgb(73, 103, 148);
+}
+#Details {
+    color: cornflowerblue;
+    text-transform: capitalize;
+}
+.nav {
+    background-color:rgb(135, 176, 192) ;
+}
+.srch {
+    background-color: bisque;
+}
+.cntct {
+    background-color: beige;
 }
